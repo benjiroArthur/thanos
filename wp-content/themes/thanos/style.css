@@ -4,5 +4,8 @@ Author: Benjamin Arthur
 */
 
 .bg-amalitech{
-    background-color: blue;
+    background-color: #dd5928;
+}
+.menu-item-object-page{
+    color: red !important;
 }

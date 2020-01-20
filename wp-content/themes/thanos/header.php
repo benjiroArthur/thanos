@@ -1,13 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>
         <?php
             wp_title('|', 'true', 'right');
             bloginfo('name');
         ?>
     </title>
-        <link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/css/bootstrap.min.css">
+    <!-- Fonts -->
+    <link rel="dns-prefetch" href="//fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/style.css">
         <link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/fontawesome.min.css">
         <?php wp_head(); ?>
 </head>
@@ -15,10 +21,9 @@
 <div class="container-fluid">
 <!--    <div class="container">-->
     <header>
-        <nav class="navbar navbar-expand-md bg-amalitech shadow-sm">
-            <div class="navbar-brand">
-                <a href="<?php echo get_option('home'); ?>"><img src="<?php bloginfo('template_url'); ?>/img/logo.jpg" title="<?php bloginfo('title'); ?>"></a>
-            </div>
+        <nav class="navbar navbar-expand-md shadow-sm">
+                <a class="navbar-brand py-0" href="<?php echo get_option('home'); ?>"><img src="<?php bloginfo('template_url'); ?>/img/logo.png" width="150px" title="<?php bloginfo('title'); ?>"></a>
+
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
                 <span class="fa fa-bars"></span>
             </button>
