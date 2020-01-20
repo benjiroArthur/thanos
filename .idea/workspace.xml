@@ -1,7 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac85d1ea-ab34-4c79-b3a6-8bb4f7860d6f" name="Default Changelist" comment="" />
+    <list default="true" id="ac85d1ea-ab34-4c79-b3a6-8bb4f7860d6f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/classic-editor/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/classic-editor/classic-editor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/classic-editor/js/block-editor-plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/classic-editor/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-flexslider/assets/css/.sassbuilder-config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-flexslider/assets/css/admin-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-flexslider/assets/css/admin-style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-flexslider/assets/css/admin-style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-flexslider/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-flexslider/assets/css/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-flexslider/assets/css/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-flexslider/assets/flexslider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-flexslider/assets/fonts/flexslider-icon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-flexslider/assets/fonts/flexslider-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-flexslider/assets/fonts/flexslider-icon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-flexslider/assets/fonts/flexslider-icon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-flexslider/assets/jquery.flexslider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-flexslider/assets/jquery.flexslider.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-flexslider/assets/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-flexslider/assets/js/script.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-flexslider/changelog.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-flexslider/images/bg_play_pause.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-flexslider/inc/admin/editor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-flexslider/inc/admin/settings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-flexslider/inc/public/main.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-flexslider/inc/public/widgets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-flexslider/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-flexslider/langs/en_US.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-flexslider/langs/en_US.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-flexslider/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-flexslider/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/wp-flexslider/wp-flexslider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/youtube-channel-gallery/admin-scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/youtube-channel-gallery/admin-styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/youtube-channel-gallery/img/play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/youtube-channel-gallery/img/private.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/youtube-channel-gallery/jquery.magnific-popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/youtube-channel-gallery/languages/youtube-channel-gallery-ar.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/youtube-channel-gallery/languages/youtube-channel-gallery-ar.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/youtube-channel-gallery/languages/youtube-channel-gallery-es_ES.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/youtube-channel-gallery/languages/youtube-channel-gallery-es_ES.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/youtube-channel-gallery/languages/youtube-channel-gallery-it_IT.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/youtube-channel-gallery/languages/youtube-channel-gallery-it_IT.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/youtube-channel-gallery/languages/youtube-channel-gallery-nb_NO.MO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/youtube-channel-gallery/languages/youtube-channel-gallery-nb_NO.PO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/youtube-channel-gallery/languages/youtube-channel-gallery-pt_BR.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/youtube-channel-gallery/languages/youtube-channel-gallery-pt_BR.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/youtube-channel-gallery/languages/youtube-channel-gallery-sr_RS.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/youtube-channel-gallery/languages/youtube-channel-gallery-sr_RS.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/youtube-channel-gallery/languages/youtube-channel-gallery.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/youtube-channel-gallery/languages/youtube-channel-gallery.pot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/youtube-channel-gallery/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/youtube-channel-gallery/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/youtube-channel-gallery/rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/youtube-channel-gallery/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/youtube-channel-gallery/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/youtube-channel-gallery/templates/admin_tabs.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/youtube-channel-gallery/templates/desc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/youtube-channel-gallery/templates/link.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/youtube-channel-gallery/templates/player.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/youtube-channel-gallery/templates/publishedAt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/youtube-channel-gallery/templates/search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/youtube-channel-gallery/templates/thumb.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/youtube-channel-gallery/templates/thumbs.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/youtube-channel-gallery/templates/title.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/youtube-channel-gallery/youtube-channel-gallery.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-19-at-17.25.31-150x150.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-19-at-17.25.31-200x125.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-19-at-17.25.31-300x300.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-19-at-17.25.31-400x250.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-19-at-17.25.31-768x768.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-19-at-17.25.31.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/thanos/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/thanos/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/thanos/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/thanos/index.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +98,23 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\xampp\htdocs\amalitech.org\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1WRkPGfpiCxZVqXCC6splbbTi36" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/wp-content/themes/thanos/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -55,11 +148,25 @@
       <option name="presentableId" value="Default" />
       <updated>1579119768740</updated>
       <workItem from="1579119771046" duration="2497000" />
-      <workItem from="1579463998442" duration="12433000" />
+      <workItem from="1579463998442" duration="15676000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

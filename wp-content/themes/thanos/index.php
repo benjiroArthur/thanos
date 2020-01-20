@@ -1,4 +1,5 @@
 <?php get_header(); ?>
-<?php get_template_part('index-loop'); ?>
+
+<?php the_post_thumbnail('featured'); ?>
 <?php get_sidebar(); ?>
 <?php get_footer(); ?>
