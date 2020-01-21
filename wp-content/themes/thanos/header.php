@@ -21,8 +21,8 @@
 <body>
 <div class="container-fluid">
 <!--    <div class="container">-->
-    <header>
-        <nav class="navbar navbar-expand-md shadow-sm">
+    <header style="height: 50px;">
+        <nav class="navbar navbar-expand-md shadow-sm fixed-top" style="line-height: 50px;  background-color: white;">
                 <a class="navbar-brand py-0" href="<?php echo get_option('home'); ?>"><img src="<?php bloginfo('template_url'); ?>/img/logo.png" width="150px" title="<?php bloginfo('title'); ?>"></a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">

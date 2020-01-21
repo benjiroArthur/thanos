@@ -1,6 +1,9 @@
 <?php get_header(); ?>
 
-<section>
+<?php
+    $files = scandir(bloginfo('template_url')+"/img");
+?>
+<section class="mt-1">
     <div class="row">
         <div class="col-sm-12 col-md-12 col-lg-12 px-5">
 
@@ -12,7 +15,7 @@
                 </ol>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="http://localhost/amalitech.org/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-18-at-20.35.47.jpeg" class="d-block w-100" alt="...">
+                        <img src="<?php bloginfo('template_url'); ?>/img/WhatsApp-Image-2020-01-18-at-20.35.47.jpeg" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-item">
                         <img src="http://localhost/amalitech.org/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-18-at-20.35.13.jpeg" class="d-block w-100" alt="...">
@@ -36,10 +39,10 @@
 </section>
 
 
-<section>
-    <div class="row">
+<section class="" style="margin-top: -80px">
+    <div class="row mx-5">
         <div class="col-sm-12 col-md-4 col-lg-4">
-            <div class="card">
+            <div class="card shadow p-3 mb-5 rounded">
                 <h5 class="card-header">Featured</h5>
                 <div class="card-body">
                     <h5 class="card-title">Special title treatment</h5>
@@ -50,7 +53,7 @@
 
         </div>
         <div class="col-sm-12 col-md-4 col-lg-4">
-            <div class="card">
+            <div class="card ">
                 <h5 class="card-header">Featured</h5>
                 <div class="card-body">
                     <h5 class="card-title">Special title treatment</h5>
@@ -61,7 +64,7 @@
 
         </div>
         <div class="col-sm-12 col-md-4 col-lg-4">
-            <div class="card">
+            <div class="card shadow p-3 mb-5 rounded">
                 <h5 class="card-header">Featured</h5>
                 <div class="card-body">
                     <h5 class="card-title">Special title treatment</h5>
