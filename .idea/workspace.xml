@@ -1,105 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="732e2a7a-070d-44a5-ab48-e3ee8b4ad426" name="Default" comment="" />
+    <list default="true" id="732e2a7a-070d-44a5-ab48-e3ee8b4ad426" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-18-at-20.35.13-1000x500.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-18-at-20.35.13-150x150.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-18-at-20.35.13-200x125.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-18-at-20.35.13-300x300.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-18-at-20.35.13-768x768.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-18-at-20.35.13.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-18-at-20.35.47-1000x500.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-18-at-20.35.47-150x150.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-18-at-20.35.47-200x125.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-18-at-20.35.47-300x300.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-18-at-20.35.47-768x768.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-18-at-20.35.47.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2020/01/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/thanos/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/thanos/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/thanos/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/thanos/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/thanos/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/thanos/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/thanos/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/thanos/index.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/thanos/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/thanos/index.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/thanos/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nav-menu-template.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-includes/nav-menu-template.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="184" column="4" lean-forward="true" selection-start-line="184" selection-start-column="4" selection-end-line="184" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="logo.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/thanos/img/logo.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-    </leaf>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/thanos" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/wp-content/themes/thanos/style.css" />
-        <option value="$PROJECT_DIR$/wp-content/themes/thanos/header.php" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths>
-      <path value="$PROJECT_DIR$/wp-content/themes/twentynineteen/package.json" />
-      <path value="$PROJECT_DIR$/wp-content/themes/twentytwenty/package.json" />
-    </packageJsonPaths>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="751" />
-    <option name="height" value="829" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="amalitech.org" type="b2602c69:ProjectViewProjectNode" />
-              <item name="amalitech.org" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -135,67 +75,10 @@
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8062000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13396779" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/thanos/img/logo.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-includes/nav-menu-template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="184" column="4" lean-forward="true" selection-start-line="184" selection-start-column="4" selection-end-line="184" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/thanos/index.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/thanos/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/thanos/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
