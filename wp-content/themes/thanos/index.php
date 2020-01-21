@@ -2,7 +2,7 @@
 
 <section>
     <div class="row">
-        <div class="col-sm-12 col-md-12 col-lg-12">
+        <div class="col-sm-12 col-md-12 col-lg-12 px-5">
 
             <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">
@@ -39,8 +39,36 @@
 <section>
     <div class="row">
         <div class="col-sm-12 col-md-4 col-lg-4">
-<!--<h1>hlnolufiosa;mfsag</h1>-->
-<!--            --><?php //the_post_thumbnail('featured'); ?>
+            <div class="card">
+                <h5 class="card-header">Featured</h5>
+                <div class="card-body">
+                    <h5 class="card-title">Special title treatment</h5>
+                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+
+                </div>
+            </div>
+
+        </div>
+        <div class="col-sm-12 col-md-4 col-lg-4">
+            <div class="card">
+                <h5 class="card-header">Featured</h5>
+                <div class="card-body">
+                    <h5 class="card-title">Special title treatment</h5>
+                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+
+                </div>
+            </div>
+
+        </div>
+        <div class="col-sm-12 col-md-4 col-lg-4">
+            <div class="card">
+                <h5 class="card-header">Featured</h5>
+                <div class="card-body">
+                    <h5 class="card-title">Special title treatment</h5>
+                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+
+                </div>
+            </div>
 
         </div>
     </div>
